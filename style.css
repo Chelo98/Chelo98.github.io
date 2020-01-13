@@ -1,0 +1,60 @@
+a{
+    text-decoration: none;
+    color: rgb(221, 0, 245);
+}
+li:hover{
+    
+    background-color: #333;
+    color: red;
+}
+li{
+    display: inline;
+    text-shadow: 2px 2px rgb(0, 216, 245)
+    
+}
+ul{
+    list-style-position: none;
+    height: 10vh;
+}
+li{
+    font-family: fantasy;
+    padding: 20px 100px;
+    
+}
+.red{
+    font-family: 'Indie Flower', cursive;
+    color: rgb(221, 0, 245);
+    text-align: center;
+}
+p{
+    font-family: fantasy;
+    color: rgb(221, 0, 245);
+    text-shadow: 2px 2px rgb(0, 216, 245);
+    
+    
+}
+body{
+    background-color: black;
+}
+.con{
+    font-family: fantasy;
+    color: rgb(221, 0, 245);
+    text-align: center;
+    text-shadow: 2px 2px rgb(0, 216, 245);
+}
+.center{
+    text-align: center;
+}
+.br{
+    text-align: center
+}
+h1{
+    text-shadow: 2px 3px rgb(0, 216, 245);
+}
+table{
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(221, 0, 245);
+    text-shadow: 2px 2px rgb(0, 216, 245);
+    
+}
